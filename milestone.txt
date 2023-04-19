@@ -1,0 +1,20 @@
+
+Milestone 1: 
+.Creazione di una struttura di base 
+.Creazione dei componenti per il layout della pagina (barra di ricerca, lista di film, dettagli del film)
+.Implementazione delle chiamate API per recuperare i dati dei film e visualizzarli nella lista
+
+Milestone 2: 
+.Implementazione della barra di ricerca
+.Creazione di un componente di ricerca
+.Implementazione della funzionalità di ricerca che invoca le chiamate API per recuperare i film corrispondenti alla query di ricerca
+
+Milestone 3: 
+.Creazione della pagina dei dettagli del film
+.Creazione di un componente per visualizzare i dettagli del film selezionato
+.Implementazione della funzionalità per recuperare i dettagli del film mediante API e visualizzarli nella pagina dei dettagli
+
+Bonus*
+Migliorie:Jumbotron e migliorie grafiche
+
+chiave api: ed199fc4590579b5b8a269a94862314b
