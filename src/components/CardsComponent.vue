@@ -9,7 +9,7 @@
     </div>
    </section>
    <section>
-    <div class="row container pt-3">
+    <div class="row container-fluid pt-3">
         <h2>Serie Tv</h2>
     </div>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-6 gap-3 justify-content-center">

@@ -3,6 +3,7 @@
    <HeaderComponent/>
 </header>
   <main> 
+    <Jumbotron/>
     <FormComponent @search-change-film="getFilms" @search-change-tv="getTvSeries"/>
     <CardsComponent/>
   </main>
@@ -15,9 +16,10 @@ import axios from 'axios';
 import HeaderComponent from './components/HeaderComponent.vue';
 import FormComponent from './components/FormComponent.vue'
 import CardsComponent from './components/CardsComponent.vue';
+import Jumbotron from './components/Jumbotron.vue';
 export default {
   name: 'App',
-  components: { HeaderComponent,  FormComponent, CardsComponent },
+  components: { HeaderComponent, FormComponent, CardsComponent, Jumbotron, },
   data() {
     return {
       store
